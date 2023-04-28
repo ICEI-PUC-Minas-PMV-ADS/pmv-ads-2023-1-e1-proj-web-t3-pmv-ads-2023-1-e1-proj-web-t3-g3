@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# MeDose
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+1 SEMESTRE
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Um site no qual o usuário poderá fazer um controle sobre seu tratamento medicamentoso. No qual o usuario vai poder cadastrar as medicações que está utilizando e assim receber alertas sobre os horarios de administração, além de ter acesso a relatorios referentes a seu tratamento.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* André Peçanha
+* Giovani Cheloni
+* Guilherme Ebani
+* Gustavo da Silva Souza
+* Pedro Pacheco
+* Patrick Cardoso
 
-## Orientador
-
-* Nome completo do professor 1
+## Orientador : Nathalia Assis Valentim
 
 ## Instruções de utilização
 
