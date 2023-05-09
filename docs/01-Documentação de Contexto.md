@@ -23,8 +23,8 @@ Comumente há o esquecimento por parte de pacientes que estão em tratamento med
 O objetivo geral deste trabalho é a criação de um site no qual o usuário possa cadastrar tudo aquilo que está tomando, seja notificado sobre seus horários de administração e consiga compartilhar tudo que foi medicado com seu profissional de saúde.
 
 Como objetivos específicos, podemos ressaltar:
-●	Compartilhamento de relatórios semanais com seu medico 
-●	Notificações em horários cadastrados
+# Compartilhamento de relatórios semanais com seu médico;
+# Notificações em horários cadastrados.
 
  
 > **Links Úteis**:
