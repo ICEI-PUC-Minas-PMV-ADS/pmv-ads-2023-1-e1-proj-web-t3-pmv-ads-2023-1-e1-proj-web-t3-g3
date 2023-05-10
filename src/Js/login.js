@@ -5,19 +5,20 @@ const userSenha = localStorage.getItem('userSenha');
 
 
 
-function login () {
 
-    const btnEmail = document.getElementById('login-btn-email');
-    const loginEmail = btnEmail.value;
+function login() {
 
-    const btnSenha = document.getElementById('login-btn-senha');
-    const loginSenha = btnSenha.value;
+    const loginEmail = document.getElementById('login-btn-email').value;
+
+    const loginSenha = document.getElementById('login-btn-senha').value;
 
     if (loginEmail === userEmail && loginSenha === userSenha) {
-        alert("Login efetuado com sucesso");
-        window.location.href = "/HTML/index.html";
+        alert("Sucesso")
+        location.replace ("/src/HTML/cadastrov2.html");
 
     }
-    else alert("Revise os campos");
+     else   alert("Revise os campos")
+
 
 }
+
