@@ -36,13 +36,13 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-| RF-01 |	O site deve permitir o usuário fazer login na aplicação. |	Alta |
-| RF-02	| O site deve emitir um relatório com todas as medicações que foram marcadas como administradas.	| Média |
-| RF-03	| O site deve permitir cadastrar contatos parar enviar os relatórios (e-mails).	| Baixa |
-| RF-04	| O site deve permitir cadastrar as medicações que o usuário irá utilizar.	| Alta |
-| RF-05	| O site deve permitir o usuário editar as informações das medicações cadastradas. |	Média |
-| RF-06	| O site deve permitir o usuário remover as informações de uma medicação cadastrada.	| Média |
-| RF-07	| O site deve permitir ao usuário deslogar da aplicação.	| Alta |
+| **RF-01** |	O site deve permitir o usuário fazer login na aplicação. |	Alta |
+| **RF-02**	| O site deve emitir um relatório com todas as medicações que foram marcadas como administradas.	| Média |
+| **RF-03**	| O site deve permitir cadastrar contatos parar enviar os relatórios (e-mails).	| Baixa |
+| **RF-04**	| O site deve permitir cadastrar as medicações que o usuário irá utilizar.	| Alta |
+| **RF-05**	| O site deve permitir o usuário editar as informações das medicações cadastradas. |	Média |
+| **RF-06** | O site deve permitir o usuário remover as informações de uma medicação cadastrada.	| Média |
+| **RF-07**	| O site deve permitir ao usuário deslogar da aplicação.	| Alta |
 
 ### Requisitos não Funcionais
 
@@ -50,16 +50,16 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-01| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); |Alta| 
-|RNF-02|	O site deverá ser responsivo permitindo a visualização em um celular de forma adequada; |Alta|
-|RNF-03|	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).	|Alta|
+|**RNF-01**| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); |Alta| 
+|**RNF-02**|	O site deverá ser responsivo permitindo a visualização em um celular de forma adequada; |Alta|
+|**RNF-03**|	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).	|Alta|
 
 ## Restrições
 
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|RE-01|	O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2020.|
-|RE-02|	O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
-|RE-03|	A equipe não pode subcontratar o desenvolvimento do trabalho.|
+|ID| Restrição                                           |
+|--|-----------------------------------------------------|
+|**RE-01**|	O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2020.|
+|**RE-02**|	O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
+|**RE-03**|	A equipe não pode subcontratar o desenvolvimento do trabalho.|
