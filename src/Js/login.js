@@ -13,8 +13,9 @@ function login() {
     const loginSenha = document.getElementById('login-btn-senha').value;
 
     if (loginEmail === userEmail && loginSenha === userSenha) {
+        
         alert("Sucesso")
-        location.replace ("/src/HTML/cadastrov2.html");
+        window.location.href= "src/HTML/HomePage.html";
 
     }
      else   alert("Revise os campos")
