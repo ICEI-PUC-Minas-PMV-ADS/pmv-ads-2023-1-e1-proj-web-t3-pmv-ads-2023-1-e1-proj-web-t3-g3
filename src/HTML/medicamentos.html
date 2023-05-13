@@ -19,21 +19,50 @@
                 <hr>
                 <li><a href="#">Medicamentos</a></li>
                 <hr>
-                <li><a href="#">Relatórios</a></li>
+                <li><a href="#">Relatórioss</a></li>
                 <hr>
                 <li><a href="#">Utilidade</a></li>
                 <hr>
             </ul>
         </nav>
         <div id="conteudo">
+            <article>
+                <div class="box-med" id="box-med-1">
+                    <h3>Medicamento</h3>
+                    <ul>
+                        <li>Horario</li>
+                        <li>dosagem</li>
+                        <li>Periodo</li>
+                    </ul>
+                    <h2>Confirmado</h2>
+                </div>
+                <div class="box-med" id="box-med-2">
+                    <h3>Medicamento</h3>
+                    <ul>
+                        <li>Horario</li>
+                        <li>dosagem</li>
+                        <li>Periodo</li>
+                    </ul>
+                    <h2>Confirmado</h2>
+                </div>
+                <div class="box-med" id="box-med-3">
+                    <h3>Medicamento</h3>
+                    <ul>
+                        <li>Horario</li>
+                        <li>dosagem</li>
+                        <li>Periodo</li>
+                    </ul>
+                    <h2>Confirmado</h2>
+                </div>
+            </article>
             <div id="botao">
-
                 <button class="btn-add">Adicionar</button>
             </div>
         </div>
     </section>
     <div id="modal">
         <div id="modal-content">
+            <span id="close" class="close-modal">&times;</span>
             <form class="modal-form">
                 <label for="nome" class="label-modal">Nome:</label>
                 <input type="text" id="nome" name="nome" class="btn-modal">
@@ -41,22 +70,21 @@
                 <label for="horario">Horário:</label>
                 <input type="time" id="horario" name="horario" class="btn-modal">
                 <br>
-                <label for="doseagem">Dosagem:</label>
+                <label for="dosagem">Dosagem:</label>
                 <input id="dosagem" name="dosagem" class="btn-modal">
                 <br>
                 <label for="periodo">Período:</label>
                 <select id="periodo" name="periodo" class="btn-modal">
-                    <option value="manha">manha</option>
-                    <option value="tarde">tarde</option>
-                    <option value="noite">noite</option>
+                    <option value="manha">Manha</option>
+                    <option value="tarde">Tarde</option>
+                    <option value="noite">Noite</option>
                 </select>
                 <br>
                 <label for="medico">Médico:</label>
                 <input type="text" id="medico" name="medico" class="btn-modal">
                 <br>
-                <button type="submit" class="btn-add-modal">Adicionar</button>
+                <button type="button" id="botaoModal" class="btn-add-modal" onclick="Medicamento()">Adicionar</button>
             </form>
-            <span id="close" class="close-modal">&times;</span>
         </div>
     </div>
 </body>
@@ -74,5 +102,5 @@
         modal.style.display = 'none';
     });
 </script>
-
+<script src="/src/Js/med-cad.js"></script>
 </html>
