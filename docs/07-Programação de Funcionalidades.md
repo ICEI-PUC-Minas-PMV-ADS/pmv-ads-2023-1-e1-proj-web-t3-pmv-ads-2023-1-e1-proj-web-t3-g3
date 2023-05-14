@@ -24,7 +24,7 @@ A tela de login que permite que o usuário faça seu login no sistema, nela tamb
 
 ### Estrutura de Dados
  
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/128400414/8f5f5e73-b8a0-4b8c-a690-9bb5ea9c08d7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/128400414/1d0f95a5-e9b7-4257-b0c2-bd4c4e7d67fe)
 
 
 ### Instruções de acesso
