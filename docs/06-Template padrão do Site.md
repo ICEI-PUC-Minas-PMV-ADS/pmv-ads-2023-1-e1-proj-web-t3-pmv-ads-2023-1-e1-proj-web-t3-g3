@@ -1,12 +1,47 @@
 # Template padrão do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+6.	Template do Site
+A estrutura padrão das paginas do site: 
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/128400414/d89e7c2e-00e7-4799-85e5-369f850bd384)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+  
+Figura X - Template padrão do site
+
+O template está disponível no nosso repositório do Github, composto por :
+
+●	Tela de login
+
+●	Tela de cadastro
+
+●	Tela de perfil do usuário
+
+●	Tela de registro de medicações
+
+●	Tela de relatórios 
+
+
+Tela de Login
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/128400414/41658efd-b607-46de-b2fa-5f5403575740)
+
+<sub>Página na qual um usuário que já tenha cadastro no site poderá efetuar o login.</sub>
+
+Tela de Cadastro
+ 
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/128400414/54b2e70e-a0cd-4f9b-89a2-a8c10b20739a)
+
+<sub>Pagina para registro de usuários ainda não cadastrados.</sub>
+
+Tela de Perfil do usuário
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/128400414/363e7a10-0200-410f-90d8-f8150ed16073)
+
+<sub>Página na qual o usuário pode revisar seus dados pessoais.</sub>
+
+Tela de registro de medicações
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/128400414/e617442a-1fbe-463b-9afb-50ab2f8d8cf1)
+
+<sub>Página na qual o usuário poderá cadastrar novas medicações para fazer o acompanhamento do tratamento </sub>
+
+
