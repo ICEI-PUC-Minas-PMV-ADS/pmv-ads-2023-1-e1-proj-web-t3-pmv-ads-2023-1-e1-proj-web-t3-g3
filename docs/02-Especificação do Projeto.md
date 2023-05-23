@@ -6,11 +6,70 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
-|![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/130862039/7bf4b6f3-e223-494a-8418-885042389490)|PATRICK CARDOSO CAMPOS||
-|------------|-------|------------------|
-|PONTOS POSITIVOS: Ajuda a passar o dia, diversão, a facilidade de comunicação e informação;|PONTOS NEGATIVOS: Vícios, pessoas de mau-caráter, golpes, Fake News;|MOTIVOS: Comecei a usar medição devido a enxaqueca crônica e ansiedade, mudanças de hábito não tive.|
 
+<table style="width:100%">
+  <tr>
+    <th rowspan="2">![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g3/assets/130862039/80919250-9d6e-48d1-8b79-5f2ebd81128b)</th>
+    <th colspan="2">Patrick Cardoso Campos</th>
+  </tr>
+  <tr>
+    <td><b>Idade:</b> 27 anos.<br><b>Ocupação:</b> Técnico em Informática.</td>
+    <td><b>Aplicativos:</b><br> Instagram <br> WhatsApp <br> Youtube <br> Tik Tok </td>
+  </tr>
+  <tr>
+    <td><b>Pontos Positivos:</b> Ajuda a passar o dia, diversão, a facilidade de comunicação e informação;</td>
+    <td><b>Pontos Negativos:</b> Vícios, pessoas de mau-caráter, golpes, Fake News;</td>
+    <td><b>Motivo:</b> Comecei a usar medição devido a enxaqueca crônica e ansiedade, mudanças de hábito não tive.</td>
+  </tr>
+  </table>
+  
+  <table style="width:100%">
+  <tr>
+    <th rowspan="2">IMAGEM</th>
+    <th colspan="2">Amanda Marques</th>
+  </tr>
+  <tr>
+    <td><b>Idade:</b> 29 anos.<br><b>Ocupação:</b> Gerente de Logística.</td>
+    <td><b>Aplicativos:</b><br> Instagram <br> WhatsApp <br> Youtube <br> Tik Tok <br> Linkedin </td>
+  </tr>
+  <tr>
+    <td><b>Pontos Positivos:</b> Informações, comunicação, velocidade e comodidade;</td>
+    <td><b>Pontos Negativos:</b> Propagandas, falta de personalização;</td>
+    <td><b>Motivo:</b> Desde pequena devido à asma grava, a utilização e acompanhamento médico de medicamentos e mudanças de dosagem.</td>
+  </tr>
+</table>
 
+ <table style="width:100%">
+  <tr>
+    <th rowspan="2">IMAGEM</th>
+    <th colspan="2">Jesuina de Queiroz Cheloni</th>
+  </tr>
+  <tr>
+    <td><b>Idade:</b> 72 anos.<br><b>Ocupação:</b> Enfermeira Aposentada.</td>
+    <td><b>Aplicativos:</b><br> Instagram <br> WhatsApp <br> Youtube <br> Tik Tok </td>
+  </tr>
+  <tr>
+    <td><b>Pontos Positivos:</b> Diversão, contato com familiares distantes e possibilidade de assistir o que acontece em todo lugar;</td>
+    <td><b>Pontos Negativos:</b> Muitas propagandas, golpes, dificuldades em algumas configurações pessoais e necessidade de ajuda de terceiros para realizar cadastro;</td>
+    <td><b>Motivo:</b> Devido ao aparecimento da diabetes e pressão alta o consumo de medicamentos foi necessário. E devido aos efeitos colaterais as medicações aumentaram significativamente. Uma das mudanças mais rigorosas foi a retirada do açúcar (praticamente zero de açúcar) e a regularidade nos horários estabelecidos pelo médico para medicamentos e alimentação.</td>
+  </tr>
+</table>
+
+ <table style="width:100%">
+  <tr>
+    <th rowspan="2">IMAGEM</th>
+    <th colspan="2">Guilherme Ebani Jacques</th>
+  </tr>
+  <tr>
+    <td><b>Idade:</b> 30 anos.<br><b>Ocupação:</b> Engenheiro.</td>
+    <td><b>Aplicativos:</b><br> Instagram <br> WhatsApp <br> Youtube</td>
+  </tr>
+  <tr>
+    <td><b>Pontos Positivos:</b> Entretenimento, aproximação das pessoas e informação;</td>
+    <td><b>Pontos Negativos:</b> Disseminação de notícias ou informações falsas, comparação com a vida dos influenciadores;</td>
+    <td><b>Motivo:</b> Tive que começar a usar uma das medicações devido a uma doença crônica e para proteção do sistema renal. Não precisei mudar nada no meu dia a dia com o uso das medicações.</td>
+  </tr>
+</table>
 
 ## Histórias de Usuários
 
