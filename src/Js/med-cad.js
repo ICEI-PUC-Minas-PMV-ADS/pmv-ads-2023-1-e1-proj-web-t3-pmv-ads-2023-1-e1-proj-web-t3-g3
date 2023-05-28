@@ -46,7 +46,8 @@ botaoAdd.addEventListener('click', () => {
 
     if (i == 4) { // Apos preencher 3 blocos o array é injetado no localstorage
         console.log(arrayMed);
-        localStorage.setItem('arrayMed',arrayMed);
+        let objArray = JSON.stringify(arrayMed);
+        localStorage.setItem('arrayMed',objArray);
     }
     
     

@@ -15,7 +15,7 @@ function login() {
     if (loginEmail === userEmail && loginSenha === userSenha) {
         
         alert("Sucesso")
-        window.location.href="src/HTML/medicamentos.html";
+        window.location.href="perfil.html"
 
     }
      else   alert("Revise os campos")
