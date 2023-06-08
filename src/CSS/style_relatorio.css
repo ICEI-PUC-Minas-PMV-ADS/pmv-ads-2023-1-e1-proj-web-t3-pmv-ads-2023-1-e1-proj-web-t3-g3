@@ -1,50 +1,133 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
 * {
-    padding: 0;
-    margin: 0;
-    font-family: "Work Sans", sans-serif;
+  padding: 0;
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
 }
 
 .menu {
-    width: 200px;
-    height: 100%;
-    background-color: #218c74;
-    position: fixed;
-    top: 0;
-    left: 0;
-    border-radius: 3px;
+  width: 200px;
+  height: 100%;
+  background-color: #218c74;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-radius: 3px;
 }
-.menu hr {
 
-}
+.menu hr {}
+
 .menu ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 .menu li {
-    border-top: 1px solid #ccc;
+  border-top: 1px solid #ccc;
 }
 
 .menu a {
-    display: block;
-    color: white;
-    padding: 16px;
-    text-decoration: none;
+  display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
 }
 
 .menu a:hover {
-    background-color: #26de81;
-    transition: 0.5s;
+  background-color: #26de81;
+  transition: 0.5s;
 }
 
 #container {
-    height: 600px;
-    width: 900px;
-    margin: 20px auto;
-    padding: 16px;
-    background-color: #581212;
-    position: relative;
-    display: flex;
-  }
+  height: 600px;
+  width: 900px;
+  margin: 20px auto;
+  padding: 16px;
+  position: relative;
+}
+
+.gerar-button {
+  background-color: #26de81;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.gerar-button:hover {
+  background-color: #20bf6b;
+  cursor: pointer;
+}
+
+article {
+  width: 80%;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.gerar-button  {
+  background-color: #26de81;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.gerar-button:hover {
+  background-color: #20bf6b;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  table-layout: fixed;
+
+
+}
+
+table th,
+table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  width: 20%;
+  min-height: 100px;
+}
+
+table th {
+  background-color: #218c74;
+  color: white;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table tbody tr:hover {
+  background-color: #ddd;
+}
+#compartilhar-button {
+  display: none;
+  margin-top: 10px;
+  background-color: #26de81;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+#compartilhar-button:hover {
+  background-color: #20bf6b;
+  cursor: pointer;
+}
