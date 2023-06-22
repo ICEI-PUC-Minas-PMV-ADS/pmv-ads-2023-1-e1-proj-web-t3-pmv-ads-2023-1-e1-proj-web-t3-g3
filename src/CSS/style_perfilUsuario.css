@@ -52,13 +52,14 @@ article ul li {
 #dados {
   width: 20%;
   height: 100%;
-  background-color: aqua;
 
 }
-#ft-perfil {
-  width: 90%;
-  margin: 20px auto;
-  height: 200px;
-  background-color: bisque;
-  position: flex;
+.ft-perfil {
+  width:75%;
+  height: 150px;
+}
+
+table {
+  margin-top: 30px;
+  height: 100px;
 }
