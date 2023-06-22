@@ -65,6 +65,7 @@
 article {
   width: 80%;
 }
+
 .header {
   display: flex;
   align-items: center;
@@ -72,7 +73,7 @@ article {
   margin-bottom: 10px;
 }
 
-.gerar-button  {
+.gerar-button {
   background-color: #26de81;
   color: white;
   border: none;
@@ -117,6 +118,7 @@ table tbody tr:nth-child(even) {
 table tbody tr:hover {
   background-color: #ddd;
 }
+
 #compartilhar-button {
   display: none;
   margin-top: 10px;
@@ -127,6 +129,7 @@ table tbody tr:hover {
   border-radius: 4px;
   font-size: 14px;
 }
+
 #compartilhar-button:hover {
   background-color: #20bf6b;
   cursor: pointer;

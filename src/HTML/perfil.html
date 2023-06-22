@@ -1,69 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/src/CSS/style_perfilUsuario.css" />
-    <title>Pagina Usuario</title>
-  </head>
-  <body>
-    <div class="container">
-      <div class="card_1">
-        <div id="img-perfil">
-          <img src="/src/IMGS/Img_Perfil.jpg" id="img-perfil" />
-        </div>
 
-        <h1>DADOS PESSOAIS</h1>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/src/CSS/style_perfilUsuario.css" />
+  <title>Perfil</title>
+</head>
 
-        <p>Nome do usuário</p>
-        <p>Idade do usuário</p>
-        <p>E-mail</p>
-        <p>Telefone</p>
-        <p>Endereço</p>
-      </div>
-    </div>
+<body>
+  <section id="container">
+    <nav class="menu">
+      <img src="/src/IMGS/ico.ico" id="logo">
+      <ul>
+        <hr>
+        <li><a href="perfil.html">Perfil</a></li>
+        <hr>
+        <li><a href="medicamentos.html">Medicamentos</a></li>
+        <hr>
+        <li><a href="relatorio.html">Relatórios</a></li>
+        <hr>
+        <li><a href="#">Utilidade</a></li>
+        <hr>
+      </ul>
+    </nav>
+    <article>
+      <div id="dados">
+        <div id="ft-perfil"></div>
+        <ul>
+          <li>Nome: </li>
+          <li>E-mail</li>
+          <li>Telefone</li>
+          <li>Idade</li>
+        </ul>
+        <div id="info"></div>
+    </article>
 
-    <div class="lateral">
-      <section id="menuPrincipal">
-        <nav>
-          <img src="/src/IMGS/ico.ico" id="logo" />
-          <ul>
-            <hr />
-            <li><a href="#">Perfil</a></li>
-            <hr />
-            <li><a href="medicamentos.html">Medicamentos</a></li>
-            <hr />
-            <li><a href="relatorio.html">Relatórios</a></li>
-            <hr />
-            <li><a href="#">Utilidade</a></li>
-            <hr />
-          </ul>
-        </nav>
-        <div id="conteudo">
-          <div id="botao">
-            <button class="btn-add">Adicionar</button>
-          </div>
-        </div>
-      </section>
-    </div>
+  </section>
+</body>
+<script src="../Js/relatorio.js"></script>
 
-    <div class="card">
-      <div id="modal-content">
-        <form class="modal-form">
-          <h2>Médico 1</h2>
-          <label for="nome" class="label-modal">Nome:</label>
-          <br />
-          <label for="E-mail">E-mail:</label>
-          <br />
-          <label for="número">Número:</label>
-          <br />
-          <label for="Clínica">Clínica:</label>
-          <br />
-          <label for="Especialidade">Especialidade:</label>
-          <br />
-        </form>
-      </div>
-    </div>
-  </body>
 </html>
